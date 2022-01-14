@@ -1,0 +1,132 @@
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.exe
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.deps.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.runtimeconfig.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.runtimeconfig.dev.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.dll
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.pdb
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.Views.dll
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.Views.pdb
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csprojAssemblyReference.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.AssemblyInfoInputs.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.AssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csproj.CoreCompileInputs.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorAssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.TagHelpers.input.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.TagHelpers.output.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorCoreGenerate.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorTargetAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorTargetAssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.Views.pdb
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\staticwebassets\Santa Maria.StaticWebAssets.Manifest.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\staticwebassets\Santa Maria.StaticWebAssets.xml
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.dll
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.pdb
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.genruntimeconfig.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csproj.CopyComplete
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\CadastroDePecas.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\ServicosResultado.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\TrabalheConosco.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 3\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\TrabalheConoscoResultados.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.exe
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.deps.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.runtimeconfig.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.runtimeconfig.dev.json
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.dll
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.pdb
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.Views.dll
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.Views.pdb
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csprojAssemblyReference.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.AssemblyInfoInputs.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.AssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csproj.CoreCompileInputs.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorAssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.TagHelpers.input.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.TagHelpers.output.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorCoreGenerate.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\CadastroDePecas.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\ServicosResultado.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\TrabalheConosco.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\TrabalheConoscoResultados.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorTargetAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorTargetAssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.Views.pdb
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csproj.CopyComplete
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\staticwebassets\Santa Maria.StaticWebAssets.Manifest.cache
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\staticwebassets\Santa Maria.StaticWebAssets.xml
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.dll
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.pdb
+D:\Cursos\SENAC\Trabalhos\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.genruntimeconfig.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.exe
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.deps.json
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.runtimeconfig.json
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.runtimeconfig.dev.json
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.dll
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.pdb
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.Views.dll
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\Santa Maria.Views.pdb
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csprojAssemblyReference.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.AssemblyInfoInputs.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.AssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csproj.CoreCompileInputs.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorAssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.TagHelpers.input.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.TagHelpers.output.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorCoreGenerate.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\CadastroDePecas.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Servicos\ServicosResultado.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\TrabalheConosco.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\TrabalheConoscoResultados.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorTargetAssemblyInfo.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.RazorTargetAssemblyInfo.cs
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.Views.pdb
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.csproj.CopyComplete
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\staticwebassets\Santa Maria.StaticWebAssets.Manifest.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\staticwebassets\Santa Maria.StaticWebAssets.xml
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.dll
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.pdb
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\Santa Maria.genruntimeconfig.cache
+D:\Cursos\SENAC\Trabalhos\A\UC 8\Projeto Integrador Desenvolvedor 1\Etapa 4\Santa Maria\obj\Debug\netcoreapp3.1\scopedcss\bundle\Santa Maria.styles.css

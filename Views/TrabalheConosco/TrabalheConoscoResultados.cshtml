@@ -1,0 +1,31 @@
+@model List<TrabalheConosco>
+@{
+    ViewData["Title"] = "Resultados";
+}
+<h1>@ViewData["Title"]</h1>
+
+<!DOCTYPE html>
+<body background="/imagens/background.jpg">
+    <table border="1" class="table">
+    <thead>
+        <th>Nome</th>
+        <th>Email</th>
+        <th>Número</th>
+    </thead>
+    <tbody>
+@foreach (TrabalheConosco item in Model)
+        {
+            <tr>
+                <td>@item.NomeCompleto</td>
+                <td>@item.Email</td>
+                <td>@item.Numero</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+<a asp-action="TrabalheConosco">Voltar</a>
+</body>
+
+
+    

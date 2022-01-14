@@ -1,0 +1,38 @@
+@model List<Servicos>
+@{
+    ViewData["Title"] = "Serviços Sugeridos";
+}
+<h1>@ViewData["Title"]</h1>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/arquivo.css" />
+</head>
+
+<body background="/imagens/background.jpg">
+<table border="1" class="table">
+    <thead>
+        <th>Material</th>
+        <th>Peça</th>
+       
+    </thead>
+    <tbody>
+        @foreach (Servicos item in Model)
+        {
+            <tr>
+                <td>@item.Material</td>
+                <td>@item.Peca</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+<a asp-action="CadastroDePecas" >Voltar</a>
+</body>
+
+</html>
+    
+

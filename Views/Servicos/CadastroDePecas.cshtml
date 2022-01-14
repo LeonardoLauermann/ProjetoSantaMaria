@@ -1,0 +1,46 @@
+@model Servicos
+@{
+    ViewData["Title"] = "Serviços";
+}
+<body background="/imagens/background.jpg">  
+<form method="POST" asp-action="CadastroDePecas">
+
+    <ol>
+        <li>Usinagem</li>
+            <ul>
+                <li>Usinagem de peças em qualquer tipo de material</li>
+            </ul>
+        <li>Solda</li>
+            <ul>
+                <li>TIG</li>
+                <li>MIG</li>
+                <li>Oxigás</li>
+                <li>Eletrodo revestido</li>
+            </ul>        
+        <li>Criação de peças</li>
+            <ul>
+                <li>Materiais disponiveis</li>
+                <ul>
+                    <li>Nylon</li>
+                    <li>Aço</li>
+                    <li>Ferro</li>
+                </ul>
+
+                <li>Envie sua idéia de peça para conversarmos</li>
+                <input type="text" placeholder="Peça" asp-for="Peca">
+                <label>Material:</label>
+                <select asp-for="Material">
+                    <option value="nylon">Nylon</option>
+                    <option value="ferro">Ferro</option>
+                    <option value="aço">Aço</option>
+                </select>
+                <input type="submit" value="Enviar">
+            </ul>
+    </ol>
+</form>
+    <a asp-action="ServicosResultado">Ver As Peças Sugeridas</a>
+
+<p>
+    @ViewBag.Mensagem
+</p>
+</body>
